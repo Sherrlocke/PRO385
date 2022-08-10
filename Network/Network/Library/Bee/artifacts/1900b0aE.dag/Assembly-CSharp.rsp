@@ -411,6 +411,7 @@
 "Assets/Scripts/NetworkInputData.cs"
 "Assets/Scripts/Player.cs"
 "Assets/Scripts/RBBall.cs"
+"Assets/Starfield Skybox/Demo/Script/LookCamera.cs"
 -langversion:9.0
 
 /deterministic
