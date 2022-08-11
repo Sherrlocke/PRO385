@@ -104,7 +104,7 @@ public class Player : NetworkBehaviour
         if (info.IsInvokeLocal)
             message = $"You said: {message}\n";
         else
-            message = $"Some other player said: {message}\n";
+            message = $"{message}\n";
         _messages.text += message;
     }
 }

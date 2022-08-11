@@ -4644,7 +4644,7 @@ MonoBehaviour:
   - {fileID: 1368964955}
   - {fileID: 1398082368}
   playerPrefab:
-    RawGuidValue: 00000000000000000000000000000000
+    RawGuidValue: 6946b9ebb0f389246b6b391a68d3a1a0
 --- !u!4 &1604965320
 Transform:
   m_ObjectHideFlags: 0
