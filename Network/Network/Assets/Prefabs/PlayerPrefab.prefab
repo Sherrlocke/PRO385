@@ -52,6 +52,8 @@ MonoBehaviour:
   _interpolationDataSource: 0
   prefabBall: {fileID: 3693860823897984556, guid: 2f417ae2e60f3854cb48e0800940896b, type: 3}
   prefabRBBall: {fileID: 8685706550894496252, guid: 1ec2b2fe03d4e294ea60c3f4ca35348c, type: 3}
+  _spawned:
+    _value: 0
 --- !u!143 &6626358601674185593
 CharacterController:
   m_ObjectHideFlags: 0
@@ -155,8 +157,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1649051374735091146}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalScale: {x: 0.9, y: 2, z: 0.9}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2800876941609810366}
@@ -237,8 +239,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2569956431819849537}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalScale: {x: 0.9, y: 2, z: 0.9}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2800876941609810366}
