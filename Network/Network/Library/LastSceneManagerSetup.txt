@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/MatinsFuckyWucky.unity
+- path: Assets/Scenes/MatinsFuckyWucky 1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
